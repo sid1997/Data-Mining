@@ -1,0 +1,50 @@
+Positive tags in S6 : 
+homeland 44
+peter quinn 18
+claire danes 9
+carrie mathison 6
+quarrie 5
+rupert friend 4
+carrie x quinn 4
+showtime 4
+moda 3
+españa 3
+
+Negative tags in S6 : 
+
+homeland 30
+peter quinn 8
+carrie mathison 5
+showtime 3
+quarrie 3
+carrie x quinn 2
+adventures in r.a.s. 2
+imminent risk 2
+rupert friend 2
+spoilers 2
+
+Positive tags in S1 : 
+
+homeland 100
+claire danes 59
+damian lewis 15
+leonardo dicaprio 11
+tv 8
+showtime 8
+television 7
+romeo and juliet 6
+nicholas brody 5
+carrie mathison 5
+
+Negative tags in S1 : 
+
+homeland 28
+claire danes 7
+dexter 3
+hell on wheels 2
+romeo + juliet 1
+this is fucked up 1
+the damn show is good 1
+what is up claire? 1
+gifs not mine 1
+breaking bad 1

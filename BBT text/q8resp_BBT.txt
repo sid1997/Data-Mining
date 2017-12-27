@@ -1,0 +1,54 @@
+SEASON 10 STARTS: 
+
+
+('heycuddles',) 28.0
+('boys3allc',) 10.0
+('telltaletv',) 9.0
+('diebestenserienyahoo',) 9.0
+('shamydreaming',) 9.0
+('misschinitapr',) 8.0
+('sheldonwillneverruleitoutnow',) 6.5
+('nusspot',) 6.0
+('webuiltafort',) 5.0
+('last-night-on-earth-13',) 4.25
+
+
+('bigbangblog',) 0.007751937984496124
+('shipshamy',) 0.030303030303030304
+('tbbt-faves',) 0.03333333333333333
+('thebigbangtheorists',) 0.041666666666666664
+('emoreoss',) 0.09523809523809523
+('alex-loves-tv-shows',) 0.125
+('seat42f',) 0.14285714285714285
+('tremblingwithconfidence',) 0.18181818181818182
+('damonlovepot',) 0.2
+('platypus-quacks-too',) 0.2736842105263158
+
+
+
+SEASON 6 STARTS : 
+
+
+
+('sherlocktrash',) 30.0
+('meemawcooper',) 18.0
+('nerdforestgirl',) 9.0
+('heycuddles',) 8.25
+('thefishismine',) 7.0
+('xmarisolx',) 7.0
+('riniuchihaa',) 6.0
+('angie-ms',) 6.0
+('ohgressfuriosa',) 5.5
+('giggly-kitkats',) 4.5
+
+
+('bigbangsheldon',) 0.00980392156862745
+('thebigbangtheory--confessions',) 0.012987012987012988
+('misomeru',) 0.017543859649122806
+('bigbangtheory-fan-blog',) 0.04878048780487805
+('giffingtbbt',) 0.09523809523809523
+('gothictexan123',) 0.0963855421686747
+('dessert-is-served',) 0.1
+('yesroslc17',) 0.1111111111111111
+('obsessedrandomness',) 0.1111111111111111
+('dracoaries',) 0.11764705882352941

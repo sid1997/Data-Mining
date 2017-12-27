@@ -1,0 +1,50 @@
+Positive tags in S10 : 
+shamy 78
+tbbt 55
+the big bang theory 40
+sheldon cooper 34
+amy farrah fowler 30
+big bang theory 18
+sheldon and amy 10
+mayim bialik 10
+tbbt spoilers 8
+jim parsons 8
+
+Negative tags in S10 : 
+
+the big bang theory 12
+shamy 7
+sheldon cooper 7
+tbbt 6
+big bang theory 4
+sheldon and amy 3
+amy farrah fowler 3
+spoilers 2
+tbbt spoilers 2
+leonard hofstadter 2
+
+Positive tags in S6 : 
+
+shamy 164
+the big bang theory 123
+tbbt 111
+sheldon cooper 98
+big bang theory 82
+amy farrah fowler 64
+penny 21
+howard wolowitz 20
+sheldon 16
+mayim bialik 14
+
+Negative tags in S6 : 
+
+the big bang theory 33
+tbbt 31
+sheldon cooper 26
+big bang theory 25
+shamy 25
+sheldon 7
+amy farrah fowler 5
+sick 5
+soft kitty 5
+bbt 4

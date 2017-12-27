@@ -1,0 +1,39 @@
+SEASON 7 STARTS:
+
+('ellimomo',) 23.0
+('obervn',) 19.0
+('sakoorathebeautiful',) 12.0
+('winelover1989',) 12.0
+('moonflower91',) 11.5
+('stray-arrows',) 10.0
+('timelessfrasers',) 10.0
+('stcrtrek',) 10.0
+('rwiggly',) 9.0
+('blue-roses-in-a-wall-of-ice',) 7.625
+('rhegar',) 7.0
+('abbyrosejenk',) 5.0
+('jonsasnow',) 5.0
+('gaby2',) 5.0
+('roseinthetardisclueingforlooks',) 5.0
+
+
+
+SEASON 1 STARTS : 
+
+
+
+('slavicinferno',) 18.0
+('bandedshadows',) 18.0
+('tapestryofwords',) 18.0
+('kakumei-no-tomoshibi',) 17.0
+('thisisnttheblogyouarelooki-blog1',) 15.0
+('miss-mutant',) 14.0
+('sterekismyconstant',) 13.0
+('therithaur',) 12.0
+('fanlingo',) 11.0
+('theyoungshewolf',) 10.0
+('kittykins',) 9.5
+('bananarumba',) 8.0
+('angie2point0-blog',) 7.0
+('rosewithsteelthorns',) 7.0
+('gameofstoned',) 6.333333333333333

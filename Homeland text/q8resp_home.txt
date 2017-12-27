@@ -1,0 +1,54 @@
+SEASON 6 STARTS: 
+
+
+('adventuresinras',) 9.0
+('tomsecker',) 4.0
+('yourwisehistory',) 4.0
+('hidingupatreeorsomething',) 3.090909090909091
+('scissorwords',) 3.0
+('koalathebear',) 2.5
+('swshep',) 2.4285714285714284
+('gabehcoudblog',) 2.4
+('blondietvjunkie',) 2.0
+('amusementforme',) 2.0
+
+
+('rupertsfriend',) 0.058823529411764705
+('bonnaparta',) 0.1
+('hellyeahomeland',) 0.12307692307692308
+('existingcharactersdiehorribly',) 0.125
+('homeland-undertale',) 0.125
+('wthomeland',) 0.14814814814814814
+('vipfanauctions',) 0.2
+('homelandstuff',) 0.20588235294117646
+('mary3k514',) 0.25
+('sarcasmcloud',) 0.3
+
+
+
+SEASON 1 STARTS : 
+
+
+
+('mrs-pessimist-blog',) 10.0
+('ballroompink',) 5.0
+('lastmouseleft',) 4.0
+('firecanlosecontrol',) 3.0
+('officerparker',) 2.0
+('jared-trolls-me',) 2.0
+('renewedapp',) 2.0
+('myridiculous',) 2.0
+('thisisendless',) 2.0
+('neonstorm',) 2.0
+
+
+('whos-carol',) 0.0625
+('damiansgal',) 0.0625
+('kurakens',) 0.125
+('leonardofanuk-blog',) 0.16666666666666666
+('itsallfuckinghappening',) 0.16666666666666666
+('dannyarchers-blog',) 0.2
+('aboutnici',) 0.23076923076923078
+('fyeahcarriebrody',) 0.25
+('plimsoll-punks',) 0.25
+('wings-to-fly',) 0.25

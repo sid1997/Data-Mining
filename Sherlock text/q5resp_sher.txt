@@ -1,0 +1,50 @@
+Positive tags in S4 : 
+sherlock 215
+johnlock 111
+sherlock holmes 79
+bbc sherlock 72
+john watson 69
+tjlc 55
+the final problem 52
+the lying detective 52
+sherlock s4 41
+the six thatchers 36
+
+Negative tags in S4 : 
+
+sherlock 86
+johnlock 33
+bbc sherlock 28
+john watson 24
+sherlock holmes 23
+tjlc 19
+the six thatchers 19
+the lying detective 18
+the final problem 18
+sherlock spoilers 16
+
+Positive tags in S3 : 
+
+sherlock 224
+the sign of three 61
+john watson 59
+sherlock holmes 54
+johnlock 50
+bbc sherlock 41
+his last vow 38
+the empty hearse 33
+moriarty 33
+benedict cumberbatch 27
+
+Negative tags in S3 : 
+
+sherlock 86
+the sign of three 21
+sherlock holmes 18
+john watson 18
+his last vow 17
+s3 15
+bbc sherlock 14
+johnlock 14
+mycroft holmes 12
+the empty hearse 12

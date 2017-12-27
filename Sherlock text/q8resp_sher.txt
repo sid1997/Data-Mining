@@ -1,0 +1,54 @@
+SEASON 4 STARTS: 
+
+
+('the-7-percent-solution',) 28.0
+('kickingroses',) 24.0
+('trekking-in-a-tardis',) 18.0
+('jenna221b',) 10.5
+('supercrobilla',) 7.0
+('asherlockstudy',) 7.0
+('mr-brightside24',) 6.5
+('love-in-mind-palace',) 6.0
+('swearingjohn',) 5.0
+('datrick',) 5.0
+
+
+('rominatrix',) 0.05263157894736842
+('dramatisecho',) 0.1
+('whatwouldhuddersdo',) 0.125
+('sweetinsanityx3',) 0.2
+('thediogenes',) 0.2
+('thespiritualmultinerd',) 0.2
+('gayholmie',) 0.2
+('jimisandrewlocked',) 0.25
+('littlefirefly00',) 0.3333333333333333
+('winpala',) 0.3333333333333333
+
+
+
+SEASON 3 STARTS : 
+
+
+
+('cosmoglaut',) 5.0
+('lockedin221b',) 5.0
+('freewomenxgrape',) 5.0
+('bakerstreetbabes',) 3.0
+('lizthirose',) 3.0
+('usapotterfan',) 3.0
+('coffeesherlock',) 3.0
+('lettersarecolours',) 3.0
+('transmanatheist',) 2.5
+('kickingroses',) 2.0
+
+
+('jamesmoriatty-blog',) 0.05263157894736842
+('constancecream',) 0.06666666666666667
+('becks28nz',) 0.08333333333333333
+('sherlockbbcgifs',) 0.1
+('anothermindpalace',) 0.125
+('enigmaticpenguinofdeath',) 0.16666666666666666
+('nyxneon',) 0.16666666666666666
+('rageddy',) 0.3333333333333333
+('moteloleander',) 0.3333333333333333
+('cumberwacho',) 0.3333333333333333

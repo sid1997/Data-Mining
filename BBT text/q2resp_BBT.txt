@@ -1,0 +1,28 @@
+SEASON 10 STARTS : 
+('bigbangblog',) 130
+('rgbcn',) 128
+('platypus-quacks-too',) 121
+('giiszlt',) 110
+('the-euclid-avenue-approximation',) 101
+('tbbt-faves',) 93
+('thetvshowguide',) 52
+('stellina2a',) 47
+('bigbangenthusiast',) 44
+('last-night-on-earth-13',) 42
+
+
+
+SEASON 6 STARTS : 
+
+
+
+('pammieomana',) 267
+('rubyanjel',) 146
+('bigbangsheldon',) 103
+('itshamy',) 92
+('gothictexan123',) 91
+('ronweasley-moved',) 87
+('katysallen',) 82
+('thebigbangtheory--confessions',) 78
+('whatabigbang',) 77
+('cfnml',) 75

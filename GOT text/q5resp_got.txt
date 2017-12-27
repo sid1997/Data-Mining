@@ -1,0 +1,50 @@
+Positive tags in S7 : 
+game of thrones 272
+got 179
+asoiaf 160
+jonerys 131
+jon snow 93
+daenerys targaryen 68
+a song of ice and fire 54
+jon x dany 41
+got spoilers 29
+sansa stark 24
+
+Negative tags in S7 : 
+
+game of thrones 168
+got 125
+asoiaf 78
+jon snow 32
+a song of ice and fire 28
+jonerys 25
+daenerys targaryen 21
+sansa stark 17
+got spoilers 14
+hbo 13
+
+Positive tags in S1 : 
+
+game of thrones 214
+asoiaf 108
+got 105
+a song of ice and fire 103
+daenerys targaryen 26
+jon snow 22
+a game of thrones 20
+a dance with dragons 19
+a clash of kings 18
+hbo 16
+
+Negative tags in S1 : 
+
+game of thrones 136
+a song of ice and fire 60
+asoiaf 57
+got 49
+ned stark 20
+hbo 17
+daenerys targaryen 14
+jon snow 11
+a dance with dragons 10
+a storm of swords 9
